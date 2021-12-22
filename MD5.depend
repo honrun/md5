@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1637119101 source:e:\debug project\c\md5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"md5.h"
+
+1637118938 source:e:\debug project\c\md5\md5.c
+	<string.h>
+	<stdint.h>
+	"md5.h"
+
+1637119064 e:\debug project\c\md5\md5.h
+	<stddef.h>
+	<stdint.h>
+	"md5_alt.h"
+
+1637983496 source:e:\debug project\c\md5_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"md5.h"
+
+1637119064 e:\debug project\c\md5_test\md5.h
+	<stddef.h>
+	<stdint.h>
+	"md5_alt.h"
+
+1637983554 source:e:\debug project\c\md5_test\md5.c
+	<string.h>
+	<stdint.h>
+	"md5.h"
+
